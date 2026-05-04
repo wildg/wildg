@@ -13,11 +13,12 @@ I am currently learning how to use data to transform business solutions, manage 
 
 ---
 #### Current Roles:
-- **Rio Tinto**: Analytics Consultant, Capstone
+- **Compass Analytics**: Data Engineering Consultant, Intern
 
 ---
 #### Previous Roles:
 
+- **Rio Tinto**: Analytics Consultant, Capstone
 - **Ensemble Systems**: Intermediate Software Developer, Full Time
 - **Telus**: Software Developer, Co-op
 - **Unico Power**: Software Developer, Capstone
